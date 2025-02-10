@@ -7,6 +7,6 @@ Last updated: 24 Mar, 2023
 When playing the game on steam, you can install the mod by simply subscribing to it in the workshop.
 
 Manual installation:
-1. Download the most recent version of the mod here on github.
+1. Download the most recent version of the mod from the "Releases" section.
 2. Extract the .zip folder.
 3. From the extracted file, copy the folder rasProfessions_[version]/Contents/mods/rasProfessions to your Zomboid/mods folder.
