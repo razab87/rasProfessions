@@ -4,6 +4,8 @@ All versions of the mod "ra's Professions" for the video game Project Zomboid. S
 Release date: 6 Dec, 2021
 Last updated: 24 Mar, 2023
 
+The mod is currently only available for the stable build 41 version of the game. It is not available for the unstable build 42 but I plan to update it when I have the time.
+
 When playing the game on steam, you can install the mod by simply subscribing to it in the workshop.
 
 Manual installation:
