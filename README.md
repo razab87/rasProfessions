@@ -1,5 +1,5 @@
 # rasProfessions
-All versions of the mod "ra's Professions" for the video game Project Zomboid. See the mod's workshop page on steam for info about the mod's content: https://steamcommunity.com/sharedfiles/filedetails/?id=2675128168.
+The mod "ra's Professions" for the video game Project Zomboid. The "relases" section contains previous versions. See the mod's workshop page on steam for info about the mod's content: https://steamcommunity.com/sharedfiles/filedetails/?id=2675128168.
 
 Release date: 6 Dec, 2021 <br>
 Last updated: 24 Mar, 2023
