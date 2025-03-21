@@ -6,7 +6,7 @@ Last updated: 24 Mar, 2023
 
 The mod is currently only available for the stable build 41 version of the game. It is not available for the unstable build 42 but I plan to update it when I have the time.
 
-When playing the game on steam, you can install the mod by simply subscribing to it in the workshop.
+When playing the game on steam, you can install the mod by simply subscribing to it on the workshop.
 
 Manual installation:
 1. Download the above .zip file (the most recent version of the mod).
