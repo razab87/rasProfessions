@@ -9,6 +9,6 @@ The mod is currently only available for the stable build 41 version of the game.
 When playing the game on steam, you can install the mod by simply subscribing to it in the workshop.
 
 Manual installation:
-1. Download the above .zip (the most recent version of the mod).
-2. Extract the .zip folder.
+1. Download the above .zip file (the most recent version of the mod).
+2. Extract the .zip file.
 3. From the extracted file, copy the folder "rasProfessions" from rasProfessions_[version]/Contents/mods/ to your Zomboid/mods folder.
