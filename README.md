@@ -4,6 +4,8 @@ The mod "ra's Professions" for the video game Project Zomboid. The Relases secti
 Release (steam): 6 Dec, 2021 <br>
 Last updated: 24 Mar, 2023
 
+Coding is in lua.
+
 The mod is currently only available for the stable build 41 version of the game. It is not available for the unstable build 42 but I plan to update it when I have the time.
 
 When playing the game on steam, you can install the mod by simply subscribing to it on the workshop.
