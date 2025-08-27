@@ -1,11 +1,11 @@
 # rasProfessions
-The mod "ra's Professions" for the video game Project Zomboid. The Relases section contains previous versions. See the mod's workshop page on steam for info about the mod's content: https://steamcommunity.com/sharedfiles/filedetails/?id=2675128168.
+The mod "ra's Professions" for the video game Project Zomboid. The Releases section contains previous versions. See the mod's workshop page on steam for info about the mod's content: https://steamcommunity.com/sharedfiles/filedetails/?id=2675128168.
 
 First release on steam: 6 Dec, 2021
 
 Technically, the mod contains a lot of lua code and some png images (used as icons in game).
 
-The mod is available for the stable build 41 nd for the unstable build 42 version of the game.
+The mod is available for the stable build 41 and for the unstable build 42 version of the game.
 
 When playing the game on steam, you can install the mod by simply subscribing to it on the workshop.
 
