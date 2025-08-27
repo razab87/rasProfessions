@@ -3,7 +3,7 @@ The mod "ra's Professions" for the video game Project Zomboid. The Releases sect
 
 First release on steam: 6 Dec, 2021
 
-Technically, the mod contains a lot of lua code and some png images (used as icons in game).
+Tech: the mod contains a lot of lua code and some png images (used as icons in game).
 
 The mod is available for the stable build 41 and for the unstable build 42 version of the game.
 
