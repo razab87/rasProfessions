@@ -1,0 +1,88 @@
+
+
+
+UI_ClothingType_BeltExtra = "Gürtel Extra",
+UI_ClothingType_LeftWrist = "Linke Hand",    
+UI_ClothingType_Necklace = "Halskette",    
+UI_ClothingType_Back = "Rücken",
+UI_ClothingType_UnderwearExtra1 = "Lange Strümpfe",
+UI_ClothingType_Neck = "Hals",
+UI_ClothingType_Torso1Legs1 = "Lange Unterhose",
+
+
+UI_rasProfessions_policeofficer_descr = "Inventar: M625 Revolver, Munition",
+UI_rasProfessions_constructionworker_descr = "Inventar: Schutzhelm",
+UI_rasProfessions_securityguard_descr = "Inventar: Schlagstock",
+UI_rasProfessions_carpenter_descr = "Inventar: Hammer, Nägel",
+UI_rasProfessions_chef_descr = "Kennt viele Kochrezepte. <LINE> Inventar: Küchenmesser",
+UI_rasProfessions_repairman_descr = "Inventar: Schraubenzieher",
+UI_rasProfessions_farmer_descr = "Chance auf Farmen zu starten. <LINE> Kennt sich mit Nutzpflanzen und deren Anbau aus.",
+UI_rasProfessions_fisherman_descr = "Kann Angelruten und Fischernetze konstruieren. <LINE> Inventar: Angelrute",
+UI_rasProfessions_doctor_descr = "Inventar: Schmerzmittel",
+UI_rasProfessions_engineer_descr = "Kann Generatoren bedienen.",
+UI_rasProfessions_metalworker_descr = "Inventar: Schweißermaske",
+UI_rasProfessions_mechanics_descr = "Ist mit der Reparatur und Wartung von Fahrzeugen vertraut. <LINE> Inventar: Schraubenschlüssel",
+UI_rasProfessions_rasBotanist_descr = "Kennt sich mit Heilkräutern und anderen Pflanzen aus.",
+UI_rasProfessions_rasWasteCollector_descr = "Inventar: Müllsack",
+UI_rasProfessions_rasStudent_descr = "Inventar: Kleiner Rucksack",
+UI_rasProfessions_rasTailor_descr = "Inventar: Nadel, Faden, Schere",
+UI_rasProfessions_rasITProf_descr = "Inventar: Digitaluhr",
+UI_rasProfessions_rasArchitect_descr = "Kann Metallzäune und -dächer konstruieren.",
+UI_rasProfessions_rasOfficeEmployee_descr = "Inventar: Armbanduhr, Aktenkoffer",
+UI_rasProfessions_rasHomeless_descr = "Started in öffentlichen oder verlassenen Gebäuden. <LINE> Inventar: Müllsack, Leere Flasche",
+UI_rasProfessions_rasMailCarrier_descr = "Inventar: Umhängetasche",
+UI_rasProfessions_rasPharmacist_descr = "Kennt sich mit Heilkräutern aus. <LINE> Inventar: Antibiotika",
+
+
+UI_rasProfessions_rasOutOfShapeProf_descr = "Niedrige Ausdauer, geringe Ausdauerregeneration <LINE> -2 Fitness",
+
+
+
+UI_rasProfessions_firefighter = "Feuerwehrmann",
+UI_rasProfessions_janitor = "Hausmeister",
+
+UI_rasProfessions_rasTeacher = "Lehrer",
+UI_rasProfessions_rasBotanist = "Botaniker",
+UI_rasProfessions_rasWasteCollector = "Müllmann",
+UI_rasProfessions_rasStudent = "Student", 
+UI_rasProfessions_rasDeliveryDriver = "Pizzabote",
+UI_rasProfessions_rasLibrarian = "Bibliothekar",
+UI_rasProfessions_rasPriest = "Priester",
+UI_rasProfessions_rasTailor = "Schneider",
+UI_rasProfessions_rasITProf = "IT Fachmann",
+UI_rasProfessions_rasArchitect = "Architekt",
+UI_rasProfessions_rasVeterinarian = "Tierarzt",
+UI_rasProfessions_rasOfficeEmployee = "Büroangestellter",
+UI_rasProfessions_rasHomeless = "Obdachlos",
+UI_rasProfessions_rasGangMember = "Gangmitglied",
+UI_rasProfessions_rasMailCarrier = "Briefträger",
+UI_rasProfessions_rasPharmacist = "Apotheker",
+UI_rasProfessions_rasRetired = "Rentner",
+
+
+UI_rasProfessions_maps_muldraugh = "Wählt diese Startumgebung, wenn ihr mit der Mod ra's Professions spielt und in Muldraugh starten wollt. Hier haben die Berufe ihre neuen, durch die Mod eingeführten Startpunkte. Abgesehen davon handelt es sich um die selbe Karte wie im Vanilla-Game.", 
+
+UI_rasProfessions_maps_riverside = "Wählt diese Startumgebung, wenn ihr mit der Mod ra's Professions spielt und in Riverside starten wollt. Hier haben die Berufe ihre neuen, durch die Mod eingeführten Startpunkte. Abgesehen davon handelt es sich um die selbe Karte wie im Vanilla-Game.", 
+
+UI_rasProfessions_maps_rosewood = "Wählt diese Startumgebung, wenn ihr mit der Mod ra's Professions spielt und in Rosewood starten wollt. Hier haben die Berufe ihre neuen, durch die Mod eingeführten Startpunkte. Abgesehen davon handelt es sich um die selbe Karte wie im Vanilla-Game.", 
+
+UI_rasProfessions_maps_westpoint = "Wählt diese Startumgebung, wenn ihr mit der Mod ra's Professions spielt und in West Point starten wollt. Hier haben die Berufe ihre neuen, durch die Mod eingeführten Startpunkte. Abgesehen davon handelt es sich um die selbe Karte wie im Vanilla-Game.",
+
+
+
+
+UI_rasProfessions_Trousers_SuitTEXTURE = "Anzughose Eng",
+UI_rasProfessions_Shirt_FormalWhite = "Formelles Hemd Weiß",
+UI_rasProfessions_Shirt_FormalWhite_ShortSleeve = "Kurzärmeliges Hemd Weiß",
+UI_rasProfessions_Tshirt_DefaultDECAL_TINT = "T-Shirt Bedruckt",
+
+
+
+
+
+
+
+
+
+
+

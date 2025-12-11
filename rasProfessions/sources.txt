@@ -1,0 +1,38 @@
+
+
+Some icons in the mod are edited versions of CC0/CC-BY assets I found on the web. Here are the references:
+
+
+icon_rasArtist:
+https://sketchfab.com/3d-models/head-of-michelangelos-david-optimised-d29af50360624e5e9b1855666475380d (the 3d was rendered for icon creation)
+
+icon_rasPharmacist:
+https://icon-icons.com/icon/pharmacist-male-rx/75055 
+https://www.veryicon.com/icons/avatar/vista-people/medical-pharmacist-male-light.html?p=4 ("Free for personal and commercial purpose.")
+
+icon_rasPriest
+https://sketchfab.com/3d-models/psx-abandoned-church-4947e2994961439a914550a436b7d9b0 (I edited the 3d model and rendered it for icon creation)
+
+icon_rasStudent
+https://pixabay.com/vectors/cap-hat-blue-cord-celebration-306279/ (black hat)
+https://pixabay.com/vectors/mortar-board-graduation-graduand-32277/ (blue hat)
+
+icon_rasTeacher
+https://pixabay.com/vectors/teacher-classroom-chalk-board-man-651318/  (text on the blackboard)
+
+icon_rasVeterianrian:
+https://pixabay.com/vectors/stethoscope-cut-out-6991174/ (stethoscope)
+https://pixabay.com/illustrations/silhouette-imprint-paw-foot-track-1314467/  (paw)
+
+icon_rasBotanist
+https://pixabay.com/vectors/mint-herb-leaves-green-fragrant-32644/ 
+
+
+icon_rasDeliveryDriver
+https://sketchfab.com/3d-models/vespa-moto-a268e872c7ad46cfa2365a24caac348a (icon based on the 3d model)
+https://pixabay.com/illustrations/pizza-pizza-icon-pizza-slice-1428927/ (the pizza)
+
+
+
+The icons in the folder media/ui/Traits are taken from the base game and are subject to The Indie Stone's property rights. This also applies to the the icons icon_rasGangMember, icon_rasITProf, icon_rasHomeless, icon_rasLibrarian,
+icon_rasMailCarrier, icon_rasOfficeEmployee, icon_rasTailor, icon_rasWasteCollector, icon_rasRetired (some of them are edited versions of assets taken from the game, some combined with elements from other CC0 material).
