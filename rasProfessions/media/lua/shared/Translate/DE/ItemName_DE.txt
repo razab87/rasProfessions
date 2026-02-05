@@ -1,0 +1,25 @@
+
+
+
+ItemName_DE = {
+
+    ItemName_Base.Trousers_SuitWhite = "Anzughose",
+    ItemName_Base.Trousers_Suit = "Anzughose",
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
