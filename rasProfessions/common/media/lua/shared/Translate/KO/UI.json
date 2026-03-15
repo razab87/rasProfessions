@@ -1,0 +1,98 @@
+
+{
+
+"UI_ClothingType_BeltExtra": "보조 벨트",
+"UI_ClothingType_LeftWrist": "왼쪽 손목",    
+"UI_ClothingType_Necklace": "목걸이",    
+"UI_ClothingType_Back": "등",
+"UI_ClothingType_UnderwearExtra1": "타이츠",
+"UI_ClothingType_Neck": "목",
+"UI_ClothingType_Torso1Legs1": "긴 내복",
+"UI_ClothingType_JacketSuit": "긴 재킷",
+
+"UI_rasProfessions_decal": "데칼",
+
+"UI_rasProfessions_policeofficer_descr": "장비: M625 리볼버, 탄약", 
+"UI_rasProfessions_constructionworker_descr": "장비: 안전모",
+"UI_rasProfessions_securityguard_descr": "장비: 진압봉",
+"UI_rasProfessions_carpenter_descr": "장비: 망치, 못",
+"UI_rasProfessions_burglar_descr": "차량 시동을 걸 수 있습니다.",
+"UI_rasProfessions_chef_descr": "요리 레시피를 알고 있습니다. <LINE> 장비: 식칼",
+"UI_rasProfessions_repairman_descr": "장비: 스크류 드라이버",
+"UI_rasProfessions_farmer_descr": "농사에 대한 자세한 지식이 있습니다.",
+"UI_rasProfessions_rancher_descr": "축산에 대한 자세한 지식이 있습니다.",
+"UI_rasProfessions_fisherman_descr": "낚싯대와 어망 만드는 법을 알고 있습니다. <LINE> 장비: 낚싯대",
+"UI_rasProfessions_doctor_descr": "장비: 항생제, 호출기",
+"UI_rasProfessions_engineer_descr": "발전기를 작동시킬 수 있습니다.",
+"UI_rasProfessions_metalworker_descr": "장비: 용접 마스크",
+"UI_rasProfessions_mechanics_descr": "일반 차량과 상업용 차량 모델 및 수리에 대한 자세한 지식이 있습니다. <LINE> 장비: 렌치",
+"UI_rasProfessions_rasBotanist_descr": "약초 및 다른 식물에 대한 자세한 지식이 있습니다.",
+"UI_rasProfessions_rasWasteCollector_descr": "장비: 쓰레기 봉투",
+"UI_rasProfessions_rasStudent_descr": "장비: 작은 배낭 또는 학생용 가방",
+"UI_rasProfessions_rasPriest_descr": "장비: 성경",
+"UI_rasProfessions_rasTailor_descr": "장비: 바늘, 실, 가위",
+"UI_rasProfessions_rasITProf_descr": "장비: 디지털 손목 시계",
+"UI_rasProfessions_rasArchitect_descr": "나무, 금속, 또는 돌로 건설된 벽의 내구도가 +20% 증가합니다. <LINE> 나무나 금속으로 건설된 문의 내구도가 +20% 증가합니다.",
+"UI_rasProfessions_rasOfficeEmployee_descr": "장비: 손목 시계, 서류 가방",
+"UI_rasProfessions_rasHomeless_descr": "공공건물이나 버려진 건물에서 시작합니다. <LINE> 장비: 쓰레기 봉투, 빈 병",
+"UI_rasProfessions_rasGangMember_descr": "장비: 버터플라이 나이프",
+"UI_rasProfessions_rasMailCarrier_descr": "장비: 학생용 가방",
+"UI_rasProfessions_rasPharmacist_descr": "약초에 대한 자세한 지식이 있습니다. <LINE> 장비: 진통제",
+"UI_rasProfessions_rasRetired_descr": "체력 -2",
+"UI_rasProfessions_rasArtist_descr": "수공예 기술에 대한 자세한 지식이 있습니다.",
+
+
+
+"UI_trait_Pacifist": "평화주의자",
+"UI_rasProfessions_rasHerbalist_descr": "약초를 찾고 그것으로 약과 습포제를 만들 수 있습니다.",
+"UI_rasProfessions_rasOutOfShapeProf_descr": "낮은 지구력, 낮은 지구력 재생 속도.",
+
+
+
+"UI_rasProfessions_firefighter": "소방관",
+"UI_rasProfessions_janitor": "관리인",
+
+"UI_rasProfessions_rasTeacher": "교사",
+"UI_rasProfessions_rasBotanist": "식물학자",
+"UI_rasProfessions_rasWasteCollector": "환경 미화원",
+"UI_rasProfessions_rasStudent": "대학생",
+"UI_rasProfessions_rasDeliveryDriver": "배달 기사",
+"UI_rasProfessions_rasLibrarian": "도서관 사서",
+"UI_rasProfessions_rasPriest": "성직자",
+"UI_rasProfessions_rasTailor": "재단사",
+"UI_rasProfessions_rasITProf": "컴퓨터 전문가",
+"UI_rasProfessions_rasArchitect": "건축가",
+"UI_rasProfessions_rasVeterinarian": "수의사",
+"UI_rasProfessions_rasOfficeEmployee": "회사원",
+"UI_rasProfessions_rasArtist": "예술가",
+"UI_rasProfessions_rasHomeless": "노숙자",
+"UI_rasProfessions_rasGangMember": "조직폭력원",
+"UI_rasProfessions_rasMailCarrier": "우편 배달부",
+"UI_rasProfessions_rasPharmacist": "약사",
+"UI_rasProfessions_rasRetired": "은퇴자",
+
+
+
+"UI_rasProfessions_Trousers_SuitTEXTURE": "바지 - 정장용, 스키니",
+"UI_rasProfessions_Tshirt_DefaultDECAL": "티셔츠 - 그래픽",
+"UI_rasProfessions_Shirt_FormalWhite_ShortSleeve": "반팔 셔츠 - 흰색",
+"UI_rasProfessions_Shirt_FormalWhite": "셔츠 - 정장용, 흰색",
+"UI_rasProfessions_Bag_Schoolbag_Patches": "작은 배낭 - 패치",
+"UI_rasProfessions_Tshirt_Punk": "티셔츠 - 펑크",
+"UI_rasProfessions_Tshirt_HipHop": "티셔츠 - 힙합",
+"UI_rasProfessions_Tshirt_Metal": "티셔츠 - 메탈",
+"UI_rasProfessions_Tshirt_Rock2": "티셔츠 - 록",
+"UI_rasProfessions_Tshirt_BluesCountry": "티셔츠 - 음악",
+"UI_rasProfessions_Tshirt_Indie": "티셔츠 - 인디 록",
+
+"UI_rasProfessions_Reading_Glasses": "돋보기",
+
+"UI_rasProfessions_Tshirt_Police_Blue": "티셔츠 - 경찰, 파란색",
+"UI_rasProfessions_ShortSleeve_Police_Blue": "반팔 셔츠 - 경찰 부관",
+"UI_rasProfessions_ShortSleeve_Police_Grey": "반팔 셔츠 - 경찰 대원"
+
+
+}
+
+
+
